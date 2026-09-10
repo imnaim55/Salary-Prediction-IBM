@@ -65,8 +65,6 @@ Salary-Prediction-IBM/
 ├── requirements.txt
 └── README.md
 
-text
-
 ## Quickstart
 
 ### 1. Install dependencies
@@ -128,23 +126,3 @@ matplotlib | seaborn
 
 Author
 Built as a portfolio project to learn end-to-end ML deployment.
-
-text
-
----
-
-## 📓 How to Replace It
-
-### Option A — In VS Code
-1. Open `README.md`
-2. Select all (`Ctrl+A`)
-3. Delete
-4. Paste the complete version above
-5. **Save** (`Ctrl+S`)
-
-### Option B — In PowerShell (fastest)
-
-Save the content above to a file `readme_new.txt`, then run:
-
-```powershell
-Copy-Item readme_new.txt README.md -Force
