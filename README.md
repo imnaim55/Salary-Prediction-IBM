@@ -76,7 +76,6 @@ bash
 python src/predict.py --title "Data Scientist" --exp SE --company_loc US
 Output:
 
-text
 =======================================================
   Job Title:      Data Scientist
   Experience:     SE
